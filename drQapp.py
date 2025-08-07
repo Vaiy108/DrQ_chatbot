@@ -65,7 +65,7 @@ def chatbot_response(user_input, model, dialogue_pairs, patient_embeddings, top_
     }
 
 # === MAIN APP ===
-st.set_page_config(page_title="Medical Chatbot (ReMeDi)", layout="centered")
+st.set_page_config(page_title="Dr_Q_bot", layout="centered")
 st.title("🩺 Medical Chatbot")
 st.write("Ask about a symptom and get an example doctor response (translated from Chinese).")
 
