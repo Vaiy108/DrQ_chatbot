@@ -1,5 +1,5 @@
 metadata
-title: Dr_Q_Bot-medical chatbot
+title: Dr_Q_Bot-medical chatbot 🩺
 
 short_description: text-based medical chatbot
 
@@ -14,9 +14,9 @@ This chatbot uses real medical dialogue datasets ReMeDi dataset and GPT-4 for an
 Vasan Iyer
 
 Eric J Giacomucci
+
 University of Texas - Austin
-YourWebsite.com
-Twitter
+
 
 ⚠️ Disclaimer
 This tool is for educational and research purposes only. It is not a substitute for professional medical advice.
