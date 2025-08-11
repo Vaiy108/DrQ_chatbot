@@ -11,6 +11,7 @@ Developed by Vasan Iyer and Eric J Giacomucci for research and educational use.
 This chatbot uses real medical dialogue datasets ReMeDi dataset and GPT-4 for answering health-related queries.
 
 👤 Authors
+
 Vasan Iyer
 
 Eric J Giacomucci
